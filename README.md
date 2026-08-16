@@ -40,7 +40,7 @@ Abra o arquivo `index.html` diretamente no navegador, ou utilize a extensão Liv
 ## Publicação
 Projeto publicado via GitHub Pages a partir da branch `main`, pasta raiz.
 
-Link do repositório: https://github.com/Univille-Fabrica-de-Software/fabrica-software-LandingPage-Jo-o_Miguel_Zazula_Lopes
+Link do repositório: https://github.com/Univille-Fabrica-de-Software/fabrica-software-LandingPage-Joao_Miguel_Zazula_Lopes
 
 Link da página publicada: _adicionar aqui após configurar o GitHub Pages_
 
